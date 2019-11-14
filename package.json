@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.0.0-rc.0",
     "@material-ui/icons": "^4.2.0",
     "@material-ui/styles": "^4.6.0",
     "material-table": "^1.54.1",
